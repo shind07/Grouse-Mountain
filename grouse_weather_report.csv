@@ -1,2 +1,0 @@
-date,time,temp_celsius,weather,status,report_type,today_forecast,tomorrow_forecast,snow_12hr,snow_24hr,snow_48hr,snow_overnight,snow_7days,snow_total,snow_snowmaking,snow_peak,snow_plateau
-2019-01-13,17:06:21.984692,6,Clear skies,Unlimited Visibility, 6:00 AM Report,Mix of sun and cloud,"Mainly cloudy, possible sunny breaks. High: 7 Low: 5",0,0,0,0,7,260,43,213,150
