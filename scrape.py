@@ -2,7 +2,7 @@ import lxml.html
 import requests
 import string, datetime, os, csv, time, random
 
-#SLEEP_TIME = 21600 + (random.random() * 1000)
+#SLEEP_TIME = 21600 + (random.random() * 5000) # 6 hours with some variance
 SLEEP_TIME = 2160 + (random.random() * 1000)
 
 schema = ['date', 'time', 'temp_celsius', 'high', 'low', 'weather', 'status', 'report_type', 'today_forecast', 'tomorrow_forecast', 'snow_12hr', 'snow_24hr', 'snow_48hr', 'snow_overnight', 'snow_7days', 'snow_total', 'snow_snowmaking', 'snow_peak', 'snow_plateau']
@@ -25,9 +25,13 @@ def main():
     response = requests.get(url)
     tree = lxml.html.fromstring(response.text)
     #tree = lxml.html.parse('sample.html').getroot()
+    season = tree.find_class("menu-item--active")[0].xpath('./form/input/@value')[0]
+    if season.lower() != 'winter':
+        print('It is no longer winter.')
+        return
 
-    # Current temp/conditions
     while True:
+        # Current temp/conditions
         conditions = tree.xpath('//div[@class="current-weather__content"]')[0].text_content()
         parsed_conditions = parse_text(conditions)
         celsius = parsed_conditions[0][:-2]
@@ -43,7 +47,6 @@ def main():
         today, tomorrow = parsed_forecast[1], parsed_forecast[3]
         high_today = get_temp(today, 'High')
         low_today = get_temp(today, 'Low')
-
 
         # Short term snow totals
         snow_today = tree.find_class("conditions-snow-report__stats-day")[0].text_content()
@@ -67,21 +70,15 @@ def main():
         row = [date, current_time, celsius, high_today, low_today, weather, status, report_type, today, tomorrow, snow_12hr, snow_24hr, snow_48hr, snow_overnight, snow_7days, snow_total, snow_snowmaking, snow_peak, snow_plateau]
         print(row)
 
-        if os.path.exists(csv_name):
-            with open(csv_name, 'a') as f:
-                writer = csv.writer(f)
-                writer.writerow(row)
-            print('exists')
-        else:
-            print('creating csv')
-            with open(csv_name, 'w') as f:
-                writer = csv.writer(f)
+        file_exists = os.path.exists(csv_name)
+        mode = 'a' if file_exists else 'w'
+        with open(csv_name, mode) as f:
+            writer = csv.writer(f)
+            if not file_exists:
                 writer.writerow(schema)
-                writer.writerow(row)
+            writer.writerow(row)
 
         time.sleep(SLEEP_TIME)
-
-
 
 if __name__ == '__main__':
     main()

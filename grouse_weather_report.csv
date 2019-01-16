@@ -1,0 +1,17 @@
+date,time,temp_celsius,high,low,weather,status,report_type,today_forecast,tomorrow_forecast,snow_12hr,snow_24hr,snow_48hr,snow_overnight,snow_7days,snow_total,snow_snowmaking,snow_peak,snow_plateau
+2019-01-13,17:34:40.204335,11,10,7,Clear skies,Unlimited Visibility, 5:00 PM Report,Mix of sun and cloud. High: 10 Low: 7,Broken clouds. High: 10 Low: 5,0,0,0,0,2,260,43,202,150
+2019-01-14,08:48:01.633697,9,10,5,Clear skies,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,12:07:25.256183,13,10,5,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,12:26:04.527519,13,10,5,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,13:06:18.678887,13,10,5,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,13:46:32.839925,13,10,5,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,14:54:46.199093,13,10,5,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-14,15:39:37.704334,14,10,5,Blue bird skies!,Unlimited Visibility, 3:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Scattered clouds. High: 5 Low: 3,0,0,0,0,1,260,43,202,150
+2019-01-15,08:38:06.357881,5,10,5,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,145
+2019-01-15,09:23:35.431039,5,10,5,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,145
+2019-01-15,10:09:04.513268,5,10,5,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,145
+2019-01-15,10:54:33.590445,5,10,5,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,145
+2019-01-15,11:40:02.674867,5,10,5,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,145
+2019-01-15,12:41:11.620340,7,10,5,Mix of sun & cloud,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,140
+2019-01-15,15:41:27.488147,8,10,5,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,140
+2019-01-15,19:00:22.734703,5,10,5,High overcast skies,Unlimited Visibility, 6:00 PM Report,Mix of sun and cloud. High: 10 Low: 5,Mix of sun & cloud. High: 7 Low: 4,0,0,0,0,0,260,43,200,140
