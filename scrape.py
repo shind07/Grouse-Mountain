@@ -2,16 +2,21 @@ import lxml.html
 import requests
 import string, datetime, os, csv, time, random
 
-#SLEEP_TIME = 21600 + (random.random() * 5000) # 6 hours with some variance
-SLEEP_TIME = 2160 + (random.random() * 1000)
+# Set time in between requests
+SLEEP_TIME = 2160 # 2 hours
+SLEEP_TIME_BUFFER = 900 # 15 mins
 
+URL = 'https://www.grousemountain.com/current_conditions'
+
+# information for output csv
 schema = ['date', 'time', 'temp_celsius', 'high', 'low', 'weather', 'status', 'report_type', 'today_forecast', 'tomorrow_forecast', 'snow_12hr', 'snow_24hr', 'snow_48hr', 'snow_overnight', 'snow_7days', 'snow_total', 'snow_snowmaking', 'snow_peak', 'snow_plateau']
-
 csv_name = 'grouse_weather_report.csv'
 
+# Parses html into list
 def parse_text(text):
     return list(filter(lambda x: len(x) > 0, text.split('\n')))
 
+# Parses temperature from string
 def get_temp(text, temp_type):
     temp = ''
     if temp_type in text:
@@ -21,16 +26,26 @@ def get_temp(text, temp_type):
     return temp
 
 def main():
-    url = 'https://www.grousemountain.com/current_conditions'
-    response = requests.get(url)
+
+    # Make request to grouse url
+    response = requests.get(URL)
     tree = lxml.html.fromstring(response.text)
-    #tree = lxml.html.parse('sample.html').getroot()
+    #tree = lxml.html.parse('sample.html').getroot() # for testing
+
+    # Check if season is winter
     season = tree.find_class("menu-item--active")[0].xpath('./form/input/@value')[0]
     if season.lower() != 'winter':
-        print('It is no longer winter.')
+        print('Winter is no more.')
         return
 
+    # Scrape data from website
     while True:
+
+        # No point parsing data before 5AM
+        d = datetime.datetime.now()
+        if d < 5: continue
+        date, current_time = str(d).split(' ')
+
         # Current temp/conditions
         conditions = tree.xpath('//div[@class="current-weather__content"]')[0].text_content()
         parsed_conditions = parse_text(conditions)
@@ -66,7 +81,6 @@ def main():
         snow_plateau = parsed_snow_summary[13].strip(string.ascii_letters)
 
         # Write to CSV
-        date, current_time = str(datetime.datetime.now()).split(' ')
         row = [date, current_time, celsius, high_today, low_today, weather, status, report_type, today, tomorrow, snow_12hr, snow_24hr, snow_48hr, snow_overnight, snow_7days, snow_total, snow_snowmaking, snow_peak, snow_plateau]
         print(row)
 
@@ -78,7 +92,9 @@ def main():
                 writer.writerow(schema)
             writer.writerow(row)
 
-        time.sleep(SLEEP_TIME)
+        delay = SLEEP_TIME + (random.random() * SLEEP_TIME_BUFFER)
+        print('Sleeping for {}'.format(str(datetime.timedelta(seconds=delay))))
+        time.sleep(delay)
 
 if __name__ == '__main__':
     main()
