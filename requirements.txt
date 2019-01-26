@@ -1,2 +1,2 @@
-lxml.html
+lxml
 requests
