@@ -1,10 +1,11 @@
 import lxml.html
 import requests
-import string, datetime, os, csv, time, random
+import string, datetime, os, csv, time, random, pytz
 
 # Set time in between requests
-SLEEP_TIME = 2160 # 2 hours
+SLEEP_TIME = 7200 # 2 hours
 SLEEP_TIME_BUFFER = 900 # 15 mins
+TIMEZONE = pytz.timezone('Canada/Pacific')
 
 URL = 'https://www.grousemountain.com/current_conditions'
 
@@ -43,8 +44,9 @@ def main():
 
         # No point parsing data before 5AM
         d = datetime.datetime.now()
-        if d < 5: continue
-        date, current_time = str(d).split(' ')
+        local_time = TIMEZONE.localize(d)
+        if local_time.hour < 5: continue
+        date, current_time = str(local_time).split(' ')
 
         # Current temp/conditions
         conditions = tree.xpath('//div[@class="current-weather__content"]')[0].text_content()
