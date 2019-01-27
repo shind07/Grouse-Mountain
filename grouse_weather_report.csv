@@ -67,3 +67,4 @@ date,time,temp_celsius,high,low,weather,status,report_type,today_forecast,tomorr
 2019-01-26,08:34:08.185863,-1,7,-2,Low overcast skies,Variable Visibility, 8:00 AM Report,Overcast skies. High: 7 Low: -2,Overcast becoming clear. High: 7 Low: 0,0,0,0,0,28,292,46,231,165
 2019-01-26,10:47:59.193817-08:00,-1,7,-2,Low overcast skies,Limited Visibility,10:00 AM Report,Overcast skies. High: 7 Low: -2,Overcast becoming clear. High: 7 Low: 0,0,0,0,0,28,292,46,231,165
 2019-01-26,10:49:00.417345-08:00,-1,7,-2,Low overcast skies,Limited Visibility,10:00 AM Report,Overcast skies. High: 7 Low: -2,Overcast becoming clear. High: 7 Low: 0,0,0,0,0,28,292,46,231,165
+2019-01-26,16:25:37.960675-08:00,0,7,-2,Mainly cloudy skies,Variable Visibility, 4:00 PM Report,Overcast skies. High: 7 Low: -2,Overcast becoming clear. High: 7 Low: 0,0,0,0,0,28,292,46,231,165

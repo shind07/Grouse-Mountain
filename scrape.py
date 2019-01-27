@@ -41,10 +41,10 @@ def main():
 
     # Scrape data from website
     while True:
-
         # No point parsing data before 5AM
         d = datetime.datetime.now()
         local_time = TIMEZONE.localize(d)
+        print(str(local_time))
         if local_time.hour < 5: continue
         date, current_time = str(local_time).split(' ')
 
