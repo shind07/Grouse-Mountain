@@ -1,6 +1,6 @@
 import lxml.html
 import requests
-import string, datetime, os, csv, time, random, pytz
+import string, datetime, os, csv, time, random, pytz, sys
 
 # Set time in between requests
 SLEEP_TIME = 7200 # 2 hours
@@ -26,7 +26,7 @@ def get_temp(text, temp_type):
         temp = split[0]
     return temp
 
-def main():
+def main(*args):
 
     # Make request to grouse url
     response = requests.get(URL)
@@ -43,9 +43,13 @@ def main():
     while True:
         # No point parsing data before 5AM
         d = datetime.datetime.now()
-        local_time = TIMEZONE.localize(d)
-        print(str(local_time))
-        if local_time.hour < 5: continue
+
+        if len(args) > 1:
+            d = d - datetime.timedelta(hours=8)
+        print(str(d))
+        if local_time.hour < 5:
+            time.sleep(3000)
+            continue
         date, current_time = str(local_time).split(' ')
 
         # Current temp/conditions
@@ -99,4 +103,4 @@ def main():
         time.sleep(delay)
 
 if __name__ == '__main__':
-    main()
+    main(*sys.argv)
