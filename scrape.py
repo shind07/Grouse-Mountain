@@ -50,7 +50,7 @@ def main(*args):
         if d.hour < 5:
             time.sleep(3000)
             continue
-        date, current_time = str(local_time).split(' ')
+        date, current_time = str(d).split(' ')
 
         # Current temp/conditions
         conditions = tree.xpath('//div[@class="current-weather__content"]')[0].text_content()
