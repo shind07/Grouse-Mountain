@@ -47,7 +47,7 @@ def main(*args):
         if len(args) > 1:
             d = d - datetime.timedelta(hours=8)
         print(str(d))
-        if local_time.hour < 5:
+        if d.hour < 5:
             time.sleep(3000)
             continue
         date, current_time = str(local_time).split(' ')
