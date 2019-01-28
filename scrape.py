@@ -27,18 +27,6 @@ def get_temp(text, temp_type):
     return temp
 
 def main(*args):
-
-    # Make request to grouse url
-    response = requests.get(URL)
-    tree = lxml.html.fromstring(response.text)
-    #tree = lxml.html.parse('sample.html').getroot() # for testing
-
-    # Check if season is winter
-    season = tree.find_class("menu-item--active")[0].xpath('./form/input/@value')[0]
-    if season.lower() != 'winter':
-        print('Winter is no more.')
-        return
-
     # Scrape data from website
     while True:
         # No point parsing data before 5AM
@@ -46,10 +34,20 @@ def main(*args):
 
         if len(args) > 1:
             d = d - datetime.timedelta(hours=8)
-        if d.hour < 5:
+        if d.hour < 5 or d.hour > 23:
             print('Sleeping at {} ... Trying again in hour.'.format(str(d)))
             time.sleep(3000)
             continue
+
+        response = requests.get(URL)
+        tree = lxml.html.fromstring(response.text)
+        #tree = lxml.html.parse('sample.html').getroot() # for testing
+
+        # Check if season is winter
+        season = tree.find_class("menu-item--active")[0].xpath('./form/input/@value')[0]
+        if season.lower() != 'winter':
+            print('Winter is no more.')
+            return
         date, current_time = str(d).split(' ')
 
         # Current temp/conditions

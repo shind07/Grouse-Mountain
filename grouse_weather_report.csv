@@ -73,3 +73,4 @@ date,time,temp_celsius,high,low,weather,status,report_type,today_forecast,tomorr
 2019-01-27,11:31:41.276235-08:00,7,7,0,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Overcast skies. High: 7 Low: 0,Mix of sun and cloud. High:  Low: 2,0,0,0,0,28,292,46,231,165
 2019-01-27,16:34:05.093747-08:00,6,7,0,Sunny skies,Unlimited Visibility, 4:00 PM Report,Overcast skies. High: 7 Low: 0,Mix of sun and cloud. High:  Low: 2,0,0,0,0,28,292,46,231,165
 2019-01-27,17:59:36.606130-08:00,6,7,0,Sunny skies,Unlimited Visibility, 5:00 PM Report,Overcast skies. High: 7 Low: 0,Mix of sun and cloud. High:  Low: 2,0,0,0,0,28,292,46,231,165
+2019-01-28,05:58:08.788148,6,7,0,Clear skies,Unlimited Visibility,10:00 PM Report,Overcast skies. High: 7 Low: 0,Mix of sun and cloud. High:  Low: 2,0,0,0,0,28,292,46,231,165
