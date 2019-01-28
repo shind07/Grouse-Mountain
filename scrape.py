@@ -46,8 +46,8 @@ def main(*args):
 
         if len(args) > 1:
             d = d - datetime.timedelta(hours=8)
-        print(str(d))
         if d.hour < 5:
+            print('Sleeping at {} ... Trying again in hour.'.format(str(d)))
             time.sleep(3000)
             continue
         date, current_time = str(d).split(' ')
