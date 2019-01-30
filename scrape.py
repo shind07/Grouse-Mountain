@@ -1,11 +1,10 @@
 import lxml.html
 import requests
-import string, datetime, os, csv, time, random, pytz, sys
+import string, datetime, os, csv, time, random, sys
 
 # Set time in between requests
 SLEEP_TIME = 7200 # 2 hours
 SLEEP_TIME_BUFFER = 900 # 15 mins
-TIMEZONE = pytz.timezone('Canada/Pacific')
 
 URL = 'https://www.grousemountain.com/current_conditions'
 
@@ -34,9 +33,9 @@ def main(*args):
 
         if len(args) > 1:
             d = d - datetime.timedelta(hours=8)
-        if d.hour < 5 or d.hour > 23:
-            print('Sleeping at {} ... Trying again in hour.'.format(str(d)))
-            time.sleep(3000)
+        if d.hour < 6 or d.hour > 23:
+            print('Sleeping at {} ... Trying again in 40 mins.'.format(str(d)))
+            time.sleep(2000)
             continue
 
         response = requests.get(URL)
