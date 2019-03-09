@@ -181,3 +181,221 @@ date,time,temp_celsius,high,low,weather,status,report_type,today_forecast,tomorr
 2019-02-08,11:37:55.216344,-4,-5,-9,Flurries,Unlimited Visibility,11:00 AM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
 2019-02-08,13:51:01.638607,-5,-5,-9,Lightly snowing skies,Unlimited Visibility,12:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
 2019-02-08,15:52:21.289332,-6,-5,-9,Lightly snowing skies,Unlimited Visibility, 2:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-08,17:13:34.511736,-7,-5,-9,Mainly cloudy skies,Unlimited Visibility, 5:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-08,19:18:23.673353,-10,-5,-9,Clear skies,Unlimited Visibility, 6:30 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-08,21:20:19.126182,-9,-5,-9,Clear skies,Unlimited Visibility, 9:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-08,23:25:21.466242,-9,-5,-9,Clear skies,Unlimited Visibility, 9:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,06:01:41.250420,-9,-5,-9,Clear skies,Unlimited Visibility, 9:00 PM Report,Flurries. High: -5 Low: -9,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,08:10:13.939904,-9,-6,-15,High overcast skies,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,10:15:02.415785,-8,-6,-15,High overcast skies,Unlimited Visibility,10:00 AM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,12:27:12.794735,-4,-6,-15,Mix of sun & cloud,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,14:39:27.037340,-5,-6,-15,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,16:50:19.917388,-4,-6,-15,Mix of sun & cloud,Unlimited Visibility, 4:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,18:53:59.608651,-7,-6,-15,Clear skies,Unlimited Visibility, 6:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,21:08:44.889784,-7,-6,-15,Clear skies,Unlimited Visibility, 9:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-09,23:15:51.035639,-7,-6,-15,Clear skies,Unlimited Visibility,10:00 PM Report,Mix of sun and cloud. High: -6 Low: -15,Mix of sun and cloud. High: -6 Low: -15,0,0,0,0,7,305,66,243,166
+2019-02-10,06:24:02.849320,-10,-8,-12,Clear skies,Unlimited Visibility, 6:00 AM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",0,0,0,0,1,305,66,243,166
+2019-02-10,08:26:49.789319,-10,-8,-12,Blue bird skies!,Unlimited Visibility, 8:00 AM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",0,0,0,0,1,305,66,243,166
+2019-02-10,10:30:16.276810,-9,-8,-12,High overcast skies,Unlimited Visibility,10:00 AM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",0,0,0,0,1,305,66,243,166
+2019-02-10,12:32:35.289287,-11,-8,-12,Lightly snowing skies,Unlimited Visibility,12:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",0,0,0,0,1,305,66,243,166
+2019-02-10,14:46:36.124733,-11,-8,-12,Lightly snowing skies,Variable Visibility, 2:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",1,1,0,0,2,306,67,244,167
+2019-02-10,16:57:00.269326,-11,-8,-12,Snowy skies,Variable Visibility, 4:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",3,3,3,0,4,308,67,246,169
+2019-02-10,19:06:53.522473,-9,-8,-12,Snowy skies,Variable Visibility, 6:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",6,6,6,0,7,311,67,249,172
+2019-02-10,21:15:07.992825,-8,-8,-12,Snowy skies,Variable Visibility, 9:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",8,8,8,0,9,313,67,251,174
+2019-02-10,23:19:12.101358,-8,-8,-12,Flurries,Variable Visibility,10:00 PM Report,Clear becoming overcast. High: -8 Low: -12,"Scattered clouds, isolated flurries. High: -7 Low: -12",11,11,11,0,12,316,68,254,177
+2019-02-11,06:26:20.389500,-11,-5,-13,Clear skies,Unlimited Visibility, 6:00 AM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,5,11,11,0,11,316,70,254,177
+2019-02-11,08:35:47.789307,-11,-5,-13,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,3,11,11,0,11,316,70,254,177
+2019-02-11,10:38:28.701800,-9,-5,-13,Lightly snowing skies,Unlimited Visibility,10:00 AM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,0,11,11,0,11,316,70,254,177
+2019-02-11,12:40:06.849328,-6,-5,-13,High overcast skies,Unlimited Visibility,12:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,0,11,11,0,11,316,70,254,177
+2019-02-11,14:50:45.743488,-6,-5,-13,Snowy skies,Unlimited Visibility, 2:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,0,11,11,0,11,316,70,254,177
+2019-02-11,16:55:03.407341,-6,-5,-13,Snowy skies,Unlimited Visibility, 4:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,1,9,12,0,12,317,71,255,178
+2019-02-11,19:08:59.789301,-6,-5,-13,Snowy skies,Variable Visibility, 7:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,2,7,13,0,13,318,71,256,179
+2019-02-11,21:09:27.129341,-5,-5,-13,Snowy skies,Variable Visibility, 9:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,4,7,15,0,15,320,71,258,181
+2019-02-11,23:20:21.637868,-5,-5,-13,Snowy skies,Variable Visibility,10:00 PM Report,Scattered clouds. High: -5 Low: -13,Snow. High: -5 Low: -10,5,5,16,0,16,321,72,259,182
+2019-02-12,06:25:54.954082,-5,-5,-8,Lightly snowing skies,Variable Visibility, 6:00 AM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,13,15,26,10,26,331,72,269,192
+2019-02-12,08:34:47.855153,-5,-5,-8,Snowing heavily,Variable Visibility, 8:00 AM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,13,17,28,10,28,333,73,269,192
+2019-02-12,10:35:55.907063,-4,-5,-8,Low overcast skies,Variable Visibility,10:00 AM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,12,17,28,10,28,333,73,269,192
+2019-02-12,12:46:51.130292,-4,-5,-8,Snowing heavily,Variable Visibility,12:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,13,18,29,10,29,334,74,269,192
+2019-02-12,14:54:18.367344,-4,-5,-8,Lightly snowing skies,Variable Visibility, 2:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,14,19,29,10,30,335,74,269,192
+2019-02-12,17:08:35.248406,-5,-5,-8,Snowy skies,Variable Visibility, 4:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,14,19,29,10,30,335,74,269,192
+2019-02-12,19:11:55.122510,-5,-5,-8,Low overcast skies,Variable Visibility, 6:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,16,19,26,10,32,337,75,269,192
+2019-02-12,21:23:21.669830,-5,-5,-8,Snowy skies,Limited Visibility, 8:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,16,19,26,10,32,337,75,269,192
+2019-02-12,23:32:24.789299,-5,-5,-8,Lightly snowing skies,Limited Visibility,10:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,5,17,22,10,33,338,75,269,192
+2019-02-13,06:07:59.155921,-5,-5,-8,Lightly snowing skies,Limited Visibility,10:00 PM Report,Snow. High: -5 Low: -8,Mix of sun & cloud. High: -4 Low: -7,5,17,22,10,33,338,75,269,192
+2019-02-13,08:16:51.758541,-6,-3,-8,Blue bird skies!,Unlimited Visibility, 7:30 AM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",11,17,32,10,43,348,77,269,192
+2019-02-13,10:22:56.356200,-6,-3,-8,Blue bird skies!,Unlimited Visibility, 9:00 AM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",11,15,32,10,43,348,77,269,192
+2019-02-13,12:25:32.937223,-3,-3,-8,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",10,14,32,10,43,348,77,269,192
+2019-02-13,14:29:25.217322,-1,-3,-8,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",10,13,32,10,43,348,78,269,192
+2019-02-13,16:42:33.217285,0,-3,-8,Blue bird skies!,Unlimited Visibility, 4:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",10,13,31,10,43,348,78,269,192
+2019-02-13,18:44:01.290205,-4,-3,-8,Clear skies,Unlimited Visibility, 6:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",10,11,30,10,43,348,78,269,192
+2019-02-13,20:51:04.289300,-5,-3,-8,Clear skies,Unlimited Visibility, 8:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",10,11,30,10,43,348,78,269,192
+2019-02-13,22:56:34.849346,-4,-3,-8,Clear skies,Unlimited Visibility,10:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",0,10,27,10,43,348,78,269,192
+2019-02-14,06:10:18.361328,-4,-3,-8,Clear skies,Unlimited Visibility,10:00 PM Report,Mix of sun & cloud. High: -3 Low: -8,"Overcast, snow in the evening and overnight. High: 1 Low: -5",0,10,27,10,43,348,78,269,192
+2019-02-16,12:48:29.014290,0,2,-5,Lightly snowing skies,Unlimited Visibility,12:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,18,44,0,87,392,80,297,222
+2019-02-16,14:58:06.224990,-1,2,-5,Lightly snowing skies,Unlimited Visibility, 2:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,14,44,0,87,392,80,297,222
+2019-02-16,17:08:23.738422,-1,2,-5,Mix of sun & cloud,Unlimited Visibility, 5:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,8,44,0,87,392,80,297,222
+2019-02-16,19:20:33.143589,-1,2,-5,Low overcast skies,Variable Visibility, 6:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,3,41,0,87,392,80,295,220
+2019-02-16,21:34:57.434898,-2,2,-5,Mainly cloudy skies,Variable Visibility, 9:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,3,38,0,87,392,80,295,220
+2019-02-16,23:37:04.289315,-2,2,-5,Mainly cloudy skies,Variable Visibility,10:00 PM Report,Overcast skies. High: 2 Low: -5,Mix of sun and cloud. High: -7 Low: -9,0,0,36,0,87,392,80,295,220
+2019-02-17,06:15:55.533680,-3,-3,-6,Clear skies,Unlimited Visibility, 6:00 AM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,26,0,76,392,80,295,220
+2019-02-17,08:19:24.149220,-3,-3,-6,Blue bird skies!,Unlimited Visibility, 8:00 AM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,24,0,76,392,80,295,220
+2019-02-17,10:28:53.217295,-1,-3,-6,Blue bird skies!,Unlimited Visibility, 9:00 AM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,24,0,76,392,80,295,220
+2019-02-17,12:40:12.666595,0,-3,-6,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,24,0,76,392,80,295,220
+2019-02-17,14:44:40.501297,0,-3,-6,Mix of sun & cloud,Variable Visibility, 2:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,14,0,76,392,80,295,220
+2019-02-17,16:52:18.099513,-1,-3,-6,Mix of sun & cloud,Variable Visibility, 4:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,8,0,76,392,80,295,220
+2019-02-17,19:02:18.033325,-2,-3,-6,Low overcast skies,Variable Visibility, 6:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,6,0,76,392,80,295,220
+2019-02-17,21:15:55.584646,-2,-3,-6,High overcast skies,Variable Visibility, 9:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,1,0,76,392,80,295,220
+2019-02-17,23:29:12.789417,-2,-3,-6,High overcast skies,Variable Visibility,10:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,76,392,80,295,220
+2019-02-18,06:03:32.903299,-2,-3,-6,High overcast skies,Variable Visibility,10:00 PM Report,Mix of sun and cloud. High: -3 Low: -6,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,76,392,80,295,220
+2019-02-18,08:15:54.761251,-5,-5,-7,Low overcast skies,Variable Visibility, 8:00 AM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,10:27:46.464318,-4,-5,-7,Low overcast skies,Variable Visibility,10:00 AM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,12:31:34.708847,-4,-5,-7,Low overcast skies,Variable Visibility,12:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,14:45:15.789428,-3,-5,-7,Low overcast skies,Variable Visibility, 2:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,16:59:34.540936,-3,-5,-7,Low overcast skies,Variable Visibility, 4:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,19:10:48.082234,-4,-5,-7,Mainly cloudy skies,Variable Visibility, 6:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,21:21:44.432365,-5,-5,-7,Mainly cloudy skies,Variable Visibility, 9:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-18,23:26:27.877954,-5,-5,-7,Mainly cloudy skies,Variable Visibility,10:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-19,06:04:45.789335,-5,-5,-7,Mainly cloudy skies,Variable Visibility,10:00 PM Report,Mix of sun and cloud. High: -5 Low: -7,Mix of sun and cloud. High: -6 Low: -8,0,0,0,0,71,392,80,295,220
+2019-02-19,08:10:46.445720,-4,-3,-7,High overcast skies,Unlimited Visibility, 7:30 AM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,0,0,0,0,54,392,81,295,220
+2019-02-19,10:13:25.289317,-3,-3,-7,Low overcast skies,Variable Visibility,10:00 AM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,0,0,0,0,54,392,81,295,220
+2019-02-19,12:24:12.610501,-3,-3,-7,Lightly snowing skies,Variable Visibility,12:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,0,0,0,0,54,392,81,295,220
+2019-02-19,14:35:29.849327,-3,-3,-7,Snowing heavily,Variable Visibility, 2:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,2,2,2,0,56,394,81,295,220
+2019-02-19,16:47:08.641796,-2,-3,-7,Lightly snowing skies,Variable Visibility, 4:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,5,5,5,0,59,397,82,295,220
+2019-02-19,18:50:36.903877,-3,-3,-7,High overcast skies,Variable Visibility, 6:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,6,6,6,0,60,398,82,295,220
+2019-02-19,20:59:34.789298,-3,-3,-7,Clear skies,Unlimited Visibility, 8:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,6,6,6,0,60,398,82,295,220
+2019-02-19,23:12:38.033339,-4,-3,-7,Clear skies,Unlimited Visibility,10:00 PM Report,Light snow. High: -3 Low: -7,Mix of sun and cloud. High: -2 Low: -4,6,6,6,0,60,398,82,295,220
+2019-02-20,06:24:31.289302,-5,-2,-6,Mainly cloudy skies,Unlimited Visibility, 6:00 AM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,08:26:46.849305,-4,-2,-6,Mix of sun & cloud,Unlimited Visibility, 8:00 AM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,10:37:00.109331,-2,-2,-6,Mix of sun & cloud,Unlimited Visibility, 9:45 AM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,12:38:21.042194,-1,-2,-6,Mix of sun & cloud,Unlimited Visibility,12:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,14:47:04.289323,1,-2,-6,Sunny skies,Unlimited Visibility, 2:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,16:48:24.175959,0,-2,-6,Mix of sun & cloud,Unlimited Visibility, 4:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,6,6,0,50,398,83,295,220
+2019-02-20,18:49:00.754943,-2,-2,-6,Clear skies,Unlimited Visibility, 6:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,0,6,0,50,398,83,295,220
+2019-02-20,20:55:38.225574,-2,-2,-6,Clear skies,Unlimited Visibility, 8:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,0,6,0,50,398,83,295,220
+2019-02-20,23:09:18.501306,-3,-2,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Clearing to a mix of sun and cloud. High: -2 Low: -6,Mix of sun and cloud. Snowfall beginning overnight. High: -4 Low: -6,0,0,6,0,50,398,83,295,220
+2019-02-21,06:10:41.577311,-5,-2,-6,Mainly cloudy skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,6,0,42,398,85,295,220
+2019-02-21,08:18:03.763777,-3,-2,-6,Blue bird skies!,Unlimited Visibility, 8:00 AM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,6,0,42,398,85,295,220
+2019-02-21,10:31:37.501298,-2,-2,-6,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,6,0,42,398,85,295,220
+2019-02-21,12:41:20.501335,-2,-2,-6,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,6,0,42,398,85,295,220
+2019-02-21,14:48:40.345297,-3,-2,-6,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,4,0,42,398,86,295,220
+2019-02-21,16:56:34.813686,-3,-2,-6,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,4,0,42,398,86,295,220
+2019-02-21,19:09:03.054233,-4,-2,-6,Mainly cloudy skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,4,0,42,398,87,295,220
+2019-02-21,21:21:52.337792,-4,-2,-6,Mainly cloudy skies,Unlimited Visibility, 9:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,4,0,42,398,87,295,220
+2019-02-21,23:29:57.501296,-4,-2,-6,Mainly cloudy skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,0,0,4,0,42,398,87,295,220
+2019-02-22,06:04:32.789309,-4,-2,-6,Mainly cloudy skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -2 Low: -6,Snow. High: -3 Low: -6,6,6,6,6,12,404,87,295,220
+2019-02-22,08:09:13.501320,-5,-2,-6,Snowy skies,Variable Visibility, 8:00 AM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,7,7,7,6,13,405,88,295,220
+2019-02-22,10:12:45.396424,-5,-2,-6,Snowy skies,Variable Visibility,10:00 AM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,11,11,11,6,17,409,88,295,220
+2019-02-22,12:21:23.762608,-4,-2,-6,Snowing heavily,Variable Visibility,12:00 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,16,16,16,6,22,414,88,302,223
+2019-02-22,14:35:57.637179,-2,-2,-6,Mix of sun & cloud,Variable Visibility, 2:00 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,20,20,20,6,26,418,88,306,227
+2019-02-22,16:49:29.387388,-1,-2,-6,Mix of sun & cloud,Variable Visibility, 4:00 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,20,20,20,6,26,418,88,306,227
+2019-02-22,19:00:27.939502,-1,-2,-6,Mix of sun & cloud,Variable Visibility, 5:45 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,20,20,20,6,26,418,88,306,227
+2019-02-22,21:08:55.825808,-1,-2,-6,Mix of sun & cloud,Variable Visibility, 5:45 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,20,20,20,6,26,418,88,306,227
+2019-02-22,23:17:10.789395,-4,-2,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,20,20,20,6,26,418,88,306,227
+2019-02-23,06:22:00.849332,-4,-2,-6,Lightly snowing skies,Variable Visibility, 6:00 AM Report,Snow. High: -2 Low: -6,Light snow. High: -3 Low: -9,0,14,20,0,26,418,88,306,227
+2019-02-23,08:25:51.289345,-4,-3,-5,Lightly snowing skies,Variable Visibility, 8:00 AM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,1,14,21,0,27,419,88,307,228
+2019-02-23,10:38:27.897149,-4,-3,-5,Snowing heavily,Variable Visibility,10:00 AM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,4,13,24,0,30,422,88,310,230
+2019-02-23,12:41:15.877541,-4,-3,-5,Lightly snowing skies,Variable Visibility,12:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,8,12,28,0,34,426,88,314,232
+2019-02-23,14:51:31.142649,-3,-3,-5,Lightly snowing skies,Variable Visibility, 2:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,9,9,29,0,35,427,88,315,235
+2019-02-23,17:05:58.578174,-2,-3,-5,Flurries,Variable Visibility, 5:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,12,12,32,0,38,429,88,317,237
+2019-02-23,19:08:22.997433,-3,-3,-5,Mainly cloudy skies,Variable Visibility, 7:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,12,12,32,0,38,429,88,317,237
+2019-02-23,21:18:17.345818,-3,-3,-5,Clear skies,Unlimited Visibility, 9:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,12,12,32,0,38,429,88,317,237
+2019-02-23,23:23:46.117731,-4,-3,-5,Clear skies,Unlimited Visibility,10:00 PM Report,Flurries with clearing skies. High: -3 Low: -5,Scattered clouds. High: -2 Low: -6,11,12,32,0,38,429,88,317,237
+2019-02-24,06:27:26.949496,-5,-2,-7,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,12,26,0,38,429,88,317,237
+2019-02-24,08:31:13.501312,-4,-2,-7,Clear skies,Unlimited Visibility, 8:00 AM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,12,26,0,38,429,88,317,237
+2019-02-24,10:43:06.775308,-3,-2,-7,Sunny skies,Unlimited Visibility,10:00 AM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,8,21,0,38,429,88,317,237
+2019-02-24,12:50:00.849339,-1,-2,-7,Sunny skies,Unlimited Visibility,12:30 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,8,21,0,38,429,88,317,237
+2019-02-24,14:55:40.744855,-1,-2,-7,Sunny skies,Unlimited Visibility, 2:00 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,8,21,0,38,429,88,317,237
+2019-02-24,17:03:13.786774,-1,-2,-7,Sunny skies,Unlimited Visibility, 5:00 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,0,12,0,38,429,88,317,237
+2019-02-24,19:08:16.727945,-4,-2,-7,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,0,12,0,38,429,88,317,237
+2019-02-24,21:09:44.501294,-5,-2,-7,Clear skies,Unlimited Visibility, 9:00 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,0,12,0,38,429,88,317,237
+2019-02-24,23:15:42.761426,-6,-2,-7,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -2 Low: -7,Sunny. High: -5 Low: -12,0,0,12,0,38,429,88,317,237
+2019-02-25,06:18:10.224602,-7,-3,-11,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,12,0,38,430,89,317,237
+2019-02-25,08:22:23.789302,-7,-3,-11,Blue bird skies!,Unlimited Visibility, 7:30 AM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,12,0,38,430,89,317,237
+2019-02-25,10:26:55.338244,-4,-3,-11,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,8,0,38,430,89,317,237
+2019-02-25,12:29:20.414099,-3,-3,-11,Blue bird skies!,Unlimited Visibility,11:00 AM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,4,0,38,430,89,317,237
+2019-02-25,14:39:32.506108,-3,-3,-11,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,2,0,38,430,89,317,237
+2019-02-25,16:54:07.401904,-4,-3,-11,Blue bird skies!,Unlimited Visibility, 4:00 PM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,0,0,38,430,89,317,237
+2019-02-25,18:57:24.409345,-6,-3,-11,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,0,0,38,430,89,317,237
+2019-02-25,21:07:36.484897,-8,-3,-11,Clear skies,Unlimited Visibility, 9:00 PM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,0,0,38,430,89,317,237
+2019-02-25,23:18:33.501320,-8,-3,-11,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -3 Low: -11,Sunny. High: -4 Low: -9,0,0,0,0,38,430,89,317,237
+2019-02-26,06:26:10.528575,-9,-7,-12,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,30,430,89,317,237
+2019-02-26,08:37:27.217430,-9,-7,-12,Blue bird skies!,Unlimited Visibility, 7:30 AM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,30,430,89,317,237
+2019-02-26,10:40:13.217295,-5,-7,-12,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,89,317,237
+2019-02-26,12:43:36.501296,-4,-7,-12,Blue bird skies!,Unlimited Visibility,11:00 AM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,89,317,237
+2019-02-26,14:56:10.789335,-4,-7,-12,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,89,317,237
+2019-02-26,16:58:19.569797,-4,-7,-12,Blue bird skies!,Unlimited Visibility, 3:00 PM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,93,317,237
+2019-02-26,19:03:08.289304,-6,-7,-12,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,93,317,237
+2019-02-26,21:14:51.849366,-6,-7,-12,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,93,317,237
+2019-02-26,23:25:39.363249,-6,-7,-12,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -7 Low: -12,"Mainly cloudy, possibly flurries. High: -4 Low: -6",0,0,0,0,32,430,93,317,237
+2019-02-27,06:07:16.192195,-4,-2,-7,High overcast skies,Unlimited Visibility, 6:00 AM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,93,317,237
+2019-02-27,08:15:15.398886,-4,-2,-7,High overcast skies,Unlimited Visibility, 8:00 AM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,93,317,237
+2019-02-27,10:19:23.490076,-2,-2,-7,High overcast skies,Unlimited Visibility,10:00 AM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,93,317,237
+2019-02-27,12:23:58.333451,-1,-2,-7,High overcast skies,Unlimited Visibility,12:00 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,93,317,237
+2019-02-27,14:37:52.489312,-1,-2,-7,High overcast skies,Unlimited Visibility, 2:00 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,95,317,237
+2019-02-27,16:38:10.859228,-1,-2,-7,Snowy skies,Unlimited Visibility, 4:00 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,95,317,237
+2019-02-27,18:51:49.117390,-1,-2,-7,Snowy skies,Unlimited Visibility, 5:30 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,0,0,0,0,32,430,95,317,237
+2019-02-27,20:55:58.501303,-1,-2,-7,Snowy skies,Unlimited Visibility, 8:00 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,2,2,2,0,34,432,95,317,237
+2019-02-27,23:10:31.419438,-1,-2,-7,Snowy skies,Unlimited Visibility,10:00 PM Report,Mainly cloudy with sunny breaks. High: -2 Low: -7,Cloudy with sunny periods and isolated flurries. High: -2 Low: -6,5,5,5,0,37,435,95,317,237
+2019-02-28,06:14:26.849324,-5,-4,-6,High overcast skies,Unlimited Visibility, 6:00 AM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,10,10,10,5,42,440,95,317,237
+2019-02-28,08:23:30.289313,-5,-4,-6,High overcast skies,Unlimited Visibility, 8:00 AM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,10,10,10,5,42,440,95,317,237
+2019-02-28,10:28:21.018853,-5,-4,-6,High overcast skies,Unlimited Visibility,10:00 AM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,12:37:03.789306,-4,-4,-6,High overcast skies,Unlimited Visibility,12:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,14:44:43.849330,-3,-4,-6,High overcast skies,Unlimited Visibility, 2:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,16:58:58.501339,-3,-4,-6,High overcast skies,Unlimited Visibility, 2:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,19:03:53.217319,-4,-4,-6,Clear skies,Unlimited Visibility, 6:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,21:06:37.378117,-5,-4,-6,Clear skies,Unlimited Visibility, 8:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-02-28,23:11:46.289362,-5,-4,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-03-01,06:24:36.609098,-5,-4,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Broken clouds. High: -4 Low: -6,Scattered clouds. High: -2 Low: -5,5,10,10,5,42,440,95,317,237
+2019-03-01,08:36:24.789300,-2,-2,-6,Blue bird skies!,Unlimited Visibility, 8:00 AM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,313,232
+2019-03-01,10:42:11.890501,-2,-2,-6,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,313,232
+2019-03-01,12:54:37.986717,0,-2,-6,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,310,230
+2019-03-01,15:09:35.849281,0,-2,-6,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,305,226
+2019-03-01,17:09:51.501293,0,-2,-6,Blue bird skies!,Unlimited Visibility, 5:00 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,305,226
+2019-03-01,19:15:38.289341,-2,-2,-6,Clear skies,Unlimited Visibility, 6:30 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,305,226
+2019-03-01,21:23:04.954511,-2,-2,-6,Clear skies,Unlimited Visibility, 8:00 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,305,226
+2019-03-01,23:32:24.084830,-2,-2,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,10,0,42,440,95,305,226
+2019-03-02,06:01:35.863113,-4,-2,-6,Clear skies,Unlimited Visibility, 6:00 AM Report,Scattered clouds. High: -2 Low: -6,Mix of sun & cloud High: -2 Low: -7,0,0,5,0,22,440,95,305,226
+2019-03-02,08:05:32.118627,-3,-2,-6,Blue bird skies!,Unlimited Visibility, 8:00 AM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,10:17:15.266329,-1,-2,-6,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,12:24:30.540546,-1,-2,-6,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,14:24:50.522850,-1,-2,-6,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,16:36:00.034634,-2,-2,-6,Mainly cloudy skies,Unlimited Visibility, 4:00 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,18:36:40.093040,-3,-2,-6,Mainly cloudy skies,Unlimited Visibility, 6:30 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,20:44:27.227139,-3,-2,-6,Clear skies,Unlimited Visibility, 8:00 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-02,22:49:07.615632,-4,-2,-6,Clear skies,Unlimited Visibility,10:00 PM Report,Scattered clouds. High: -2 Low: -6,Sunny skies. High: -5 Low: -12,0,0,5,0,22,440,95,305,226
+2019-03-03,06:32:45.289323,-5,-5,-12,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -5 Low: -12,0,0,0,0,19,440,95,305,226
+2019-03-03,08:42:16.501333,-5,-5,-12,High overcast skies,Unlimited Visibility, 8:00 AM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,305,226
+2019-03-03,10:55:00.670453,-4,-5,-12,Mix of sun & cloud,Unlimited Visibility,10:00 AM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,305,226
+2019-03-03,13:00:11.545777,-2,-5,-12,Mix of sun & cloud,Unlimited Visibility,12:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-03,15:07:22.521808,-2,-5,-12,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-03,17:09:35.289300,-2,-5,-12,Blue bird skies!,Unlimited Visibility, 4:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-03,19:10:13.776618,-3,-5,-12,Blue bird skies!,Unlimited Visibility, 6:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-03,21:21:39.037495,-3,-5,-12,Blue bird skies!,Unlimited Visibility, 8:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-03,23:30:52.625011,-5,-5,-12,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -5 Low: -12,Sunny skies. High: -3 Low: -10,0,0,0,0,19,440,95,304,224
+2019-03-04,06:01:05.789295,-7,-3,-10,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,19,440,95,304,224
+2019-03-04,08:14:01.574895,-7,-3,-10,Clear skies,Unlimited Visibility, 6:00 AM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,15,440,95,304,224
+2019-03-04,10:23:10.446598,-3,-3,-10,Blue bird skies!,Unlimited Visibility,10:00 AM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,15,440,95,304,224
+2019-03-04,12:35:56.149335,-4,-3,-10,Blue bird skies!,Unlimited Visibility,12:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,15,440,95,304,224
+2019-03-04,14:38:11.922983,-3,-3,-10,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,15,440,95,304,224
+2019-03-04,16:49:05.289310,-2,-3,-10,Blue bird skies!,Unlimited Visibility, 2:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,10,440,95,302,220
+2019-03-04,18:53:03.787334,-4,-3,-10,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,10,440,95,300,218
+2019-03-04,21:07:41.034571,-4,-3,-10,Clear skies,Unlimited Visibility, 9:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,10,440,95,300,218
+2019-03-04,23:21:08.098472,-5,-3,-10,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,10,440,95,300,218
+2019-03-05,06:02:07.158055,-5,-3,-10,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -3 Low: -10,Increasing clouds. High: -2 Low: -7,0,0,0,0,10,440,95,300,218
+2019-03-05,08:10:15.036309,-5,-3,-10,High overcast skies,Unlimited Visibility, 7:30 AM Report,Sunny. High: -3 Low: -10,Mainly cloudy. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,10:11:49.889407,-4,-3,-10,High overcast skies,Unlimited Visibility,10:00 AM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,12:20:53.217328,-2,-3,-10,High overcast skies,Unlimited Visibility,12:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,14:31:45.135156,-2,-3,-10,Mix of sun & cloud,Unlimited Visibility, 2:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,16:44:51.790564,-1,-3,-10,Mix of sun & cloud,Unlimited Visibility, 4:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,18:53:17.102668,-3,-3,-10,Clear skies,Unlimited Visibility, 6:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,20:55:34.256542,-4,-3,-10,Clear skies,Unlimited Visibility, 8:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-05,22:58:05.110624,-4,-3,-10,Clear skies,Unlimited Visibility,10:00 PM Report,Sunny. High: -3 Low: -10,Cloudy with a chance of flurries. High: -1 Low: -6,0,0,0,0,10,440,95,300,218
+2019-03-06,06:06:40.636798,-3,0,-6,Mainly cloudy skies,Unlimited Visibility, 6:00 AM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,0,0,0,0,5,440,95,300,216
+2019-03-06,08:15:05.745643,0,0,-6,Mainly cloudy skies,Unlimited Visibility, 8:00 AM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,0,0,0,0,5,440,95,300,216
+2019-03-06,10:17:36.789304,0,0,-6,Mainly cloudy skies,Unlimited Visibility, 9:00 AM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,0,0,0,0,5,440,95,300,214
+2019-03-06,12:27:30.857363,0,0,-6,Lightly snowing skies,Unlimited Visibility,12:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,0,0,0,0,5,440,95,300,212
+2019-03-06,14:38:45.670582,-1,0,-6,Lightly snowing skies,Unlimited Visibility, 2:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,0,0,0,0,5,440,95,300,212
+2019-03-06,16:48:27.654912,-1,0,-6,Lightly snowing skies,Unlimited Visibility, 4:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,4,4,4,0,9,444,95,300,212
+2019-03-06,19:01:31.849310,-2,0,-6,Low overcast skies,Variable Visibility, 6:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,6,6,6,0,11,446,95,300,216
+2019-03-06,21:05:35.605350,-3,0,-6,Lightly snowing skies,Variable Visibility, 8:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,8,8,8,0,13,448,95,300,216
+2019-03-06,23:14:19.403169,-4,0,-6,Lightly snowing skies,Unlimited Visibility,10:00 PM Report,Increasing cloudiness through the morning with flurries beginning in the afternoon. High: 0 Low: -6,Flurries. High: -4 Low: -6,10,10,10,0,15,450,95,300,218
