@@ -18,9 +18,14 @@ def parse_text(text):
 
 # Parses temperature from string
 def get_temp(text, temp_type):
+    print(text)
+    # Flurries. High:-4 Low: -6
     temp = ''
     if temp_type in text:
-        split = text.split(temp_type + ': ')
+        if temp_type + ': ' in text:
+            split = text.split(temp_type + ': ')
+        else:
+            split = text.split(temp_type + ':')
         split = split[1].split(' ')
         temp = split[0]
     return temp
